@@ -1,11 +1,11 @@
 {
-    "name": "ICICI Bank services",
-    "short_name": "ICICI Bank services",
+    "name": "Kotak credit card services",
+    "short_name": "Kotak credit card services",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#99262B",
-    "theme_color": "#99262B",
-    "description": "ICICI Bank offer secure, convenient, and rewarding payment solutions. Choose from a wide range of cards designed for shopping, travel, dining, and more—backed by the trust of ICICI Bank of India",
+    "background_color": "#003671",
+    "theme_color": "#003671",
+    "description": "Kotak Credit Cards offer secure, convenient, and rewarding payment solutions. Choose from a wide range of cards designed for shopping, travel, dining, and more—backed by the trust of Kotak Bank of India",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
